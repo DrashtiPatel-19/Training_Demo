@@ -1,0 +1,10 @@
+<svg id="t_off" data-name="t_off"
+    xmlns="http://www.w3.org/2000/svg" width="70" height="32" viewBox="0 0 70 32">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="_Background" width="70" height="32" rx="16" fill="#fb4a46" />
+        </clipPath>
+    </defs>
+    <rect id="_Background-2" width="70" height="32" rx="16" fill="#ccc" />
+    <circle id="_Toggle_Mark" cx="14" cy="14" r="14" transform="translate(1 2)" fill="#fff" />
+</svg>

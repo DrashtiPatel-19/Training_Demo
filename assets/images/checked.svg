@@ -1,0 +1,9 @@
+<svg id="Checked" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_17380"  width="24" height="24" fill="#fff"/>
+  <g id="Iconly_Light_Tick_Square"  transform="translate(-1191.904 -1048.601)">
+    <g id="Tick_Square-4" transform="translate(1194.528 1050.101)">
+      <path id="Stroke_1-60"  d="M1209.214,1050.1h-9.372c-3.266,0-5.313,2.312-5.313,5.585v8.83c0,3.272,2.038,5.585,5.313,5.585h9.371c3.277,0,5.316-2.313,5.316-5.585v-8.83C1214.528,1052.414,1212.489,1050.1,1209.214,1050.1Z" transform="translate(-1195.152 -1049.601)" fill="#002569"/>
+      <path id="Stroke_3-48"  d="M1200.218,1060.046l3.069,3.068,6.136-6.136" transform="translate(-1194.821 -1050.046)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
